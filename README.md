@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # ec-automation
-=======
-# cm-automation
 
-This project follows the assignment defined for the Senior QA Automation role
+This project follows the assignment defined for the Cuorium QA Role
 
 ## Environment Setup
 
@@ -12,13 +9,15 @@ This project follows the assignment defined for the Senior QA Automation role
 
 ## Installation/Build
 
-- Clone [master branch](https://github.com/ianchetcuti/cm-automation)
+- Clone [master branch](https://github.com/ianchetcuti/ec-automation)
 
 ## Usage
 
-Run search.features test file
+Run ApiTests_Task1.feature for api tests
+Run UITests_Task2.feature for ui tests & expedia challenge
 
 ## Future Improvements
 
+- Use an environments/test data json file
 - Generate report doc as part of test wrap up
->>>>>>> b9f0c737af5d44678b236d239f3c620f8ffa64ec
+
